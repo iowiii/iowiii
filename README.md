@@ -6,7 +6,7 @@ I am a Computer Science student in my final year. This is actually my second acc
 - 🔭 I’m currently working on expanding my knowledge on data science and analysis.
 - 🌱 I’m currently learning R
 - 🤔 I’m looking for help with landing internships
-- 📫 How to reach me: Email me at jheninacapulong@gmail.com
+- 📫 Email me at jheninacapulong@gmail.com
 - 😄 Pronouns: she/her
 ---
 
