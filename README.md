@@ -4,8 +4,8 @@
 I am a Computer Science student in my final year. This is actually my second account, I couldn't access my first one anymore LOL
 
 - 🔭 I’m currently working on expanding my knowledge on data science and analysis.
-- 🌱 I’m currently learning R
-- 🤔 I’m looking for help with landing internships
+- 🌱 I’m currently learning Power BI
+- 🤔 I’m looking for help with landing internships related to data science
 - 📫 Email me at jheninacapulong@gmail.com
 - 😄 Pronouns: she/her
 ---
